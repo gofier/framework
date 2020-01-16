@@ -1,0 +1,5 @@
+package graceful
+
+func closeDB() {
+
+}
